@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<CucumberBdd>
+
+    <URL>
+        <url>https://blazedemo.com/index.php</url>
+    </URL>
+
+    <browserName>
+        <browser>chrome</browser>
+    </browserName>
+
+
+
+
+</CucumberBdd>
